@@ -1,3 +1,6 @@
 hi
 This is a new file
 trying to understand
+resolve merge conflict
+lekhya
+chailashree
